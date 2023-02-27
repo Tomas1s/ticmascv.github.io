@@ -1,2 +1,3 @@
-# ticmascv.github.io
+# ticmascv
+
 Proyecto final Ticmas
