@@ -1,3 +1,3 @@
-# ticmascv
+# Ticmas CV
 
 Proyecto final Ticmas
